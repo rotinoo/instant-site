@@ -22,19 +22,19 @@ Follow these instructions to get a copy of instantsite up and running on your lo
 ### Installation
 
 1. clone the repostory
-
+   ```bash
    git clone https://github.com/rotinoo/instant-site.git
 
 2. go to the project directory
-   
+   ```bash
    cd instantsite
 
 3. Install Required Dependencies
-
+   ```bash
    pip install -r requirements.txt
 
 4. Run the Application
-   
+   ```bash
    pyhton gui.py
 
 5. You also can use executable version that you can download from the release section of this repository
