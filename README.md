@@ -23,6 +23,8 @@ Follow these instructions to get a copy of instantsite up and running on your lo
 
 1. clone the repostory
 
-   git clone https://github.com/yourusername/instantsite.git
+   git clone https://github.com/rotinoo/instant-site.git
 
 2. go to the project directory
+   
+   

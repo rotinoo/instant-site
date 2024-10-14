@@ -82,7 +82,7 @@ stop_button = tk.Button(button_frame, text="Stop Server", width=20, command=stop
 stop_button.grid(row=0, column=1, padx=10)
 
 # Footer Label
-footer = tk.Label(root, text="© 2024 Your Name", font=("Helvetica", 10), bg="#f0f0f0")
+footer = tk.Label(root, text="© 2024 Robby Agustino", font=("Helvetica", 10), bg="#f0f0f0")
 footer.pack(side="bottom", pady=10)
 
 root.mainloop()
