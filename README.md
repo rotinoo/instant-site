@@ -27,4 +27,15 @@ Follow these instructions to get a copy of instantsite up and running on your lo
 
 2. go to the project directory
    
+   cd instantsite
+
+3. Install Required Dependencies
+
+   pip install -r requirements.txt
+
+4. Run the Application
    
+   pyhton gui.py
+
+5. You also can use executable version that you can download from the release section of this repository
+
