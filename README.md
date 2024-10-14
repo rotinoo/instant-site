@@ -8,7 +8,6 @@
 - **User-Friendly GUI**: An intuitive interface powered by Tkinter makes it easy to start or stop the server.
 - **Cross-Platform**: Works on Windows, macOS, and Linux.
 - **Customizable Folder**: Choose any folder with your website files for deployment.
-- **HiDPI Support**: Optimized for high-resolution displays.
 
 ## Getting Started
 
@@ -39,3 +38,10 @@ Follow these instructions to get a copy of instantsite up and running on your lo
 
 5. You also can use executable version that you can download from the release section of this repository
 
+#### Usage
+1. Launch the app.
+2. Use the "Choose Folder" button to select the folder containing your website files.
+3. Start and stop the server as needed.
+
+##### Contributing
+Feel free to fork the project and submit pull requests for improvements!
